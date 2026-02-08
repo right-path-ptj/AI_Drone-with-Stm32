@@ -1,0 +1,32 @@
+# Build files
+*.o
+*.a
+*.so
+*.elf
+*.hex
+*.bin
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+Debug/
+Release/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Node
+node_modules/
+package-lock.json

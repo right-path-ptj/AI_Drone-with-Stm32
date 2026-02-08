@@ -1,5 +1,7 @@
 <img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/0e1f9deb-e6f5-4392-956f-edd669541747" />
 <img width="1472" height="704" alt="image" src="https://github.com/user-attachments/assets/20b94be9-7e6e-4052-98cf-d00f5ecf3d86" />
+<img width="1193" height="747" alt="image" src="https://github.com/user-attachments/assets/33d1b026-3e3c-4f24-8bff-4872273e2fa7" />
+
 
 이 GitHub 저장소의 구성과 내용을 바탕으로 프로젝트의 목적, 주요 기능, 기술 스택 등을 포함한 깔끔한 README.md 템플릿을 작성해 드립니다.
 
@@ -78,7 +80,4 @@ git clone https://github.com/right-path-ptj/AI_Drone-with-Stm32.git
 
 ---
 
-### 💡 팁
 
-* 실제 코드 내의 `main.c` 파일이나 주요 알고리즘 파일의 주석 내용을 보강하면 더 풍성한 리드미를 만들 수 있습니다.
-* 드론 비행 영상이나 사진이 있다면 리드미 상단에 추가하는 것을 추천드립니다.
